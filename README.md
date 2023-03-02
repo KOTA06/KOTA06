@@ -23,6 +23,6 @@
 ![](https://img.shields.io/badge/HTML-E34F26?labelColor=black&logo=html5)
 ![](https://img.shields.io/badge/CSS-1572B6?labelColor=black&logo=css3)
 
-# PROJECT
+# 🐙 PROJECT
 ## Discord
 - Coming soon ...
