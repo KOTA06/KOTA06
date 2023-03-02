@@ -1,16 +1,28 @@
-### Hi there 👋
+# 🦈 MY PROFILE
+- My name is **KOTA**
+- I am a **high school student**
+- Living in **Japan**
 
-<!--
-**KOTA06/KOTA06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐬 MY SOCIAL ACCOUNT
+- Discord: `KOTA#0649`
 
-Here are some ideas to get you started:
+# 🐋 MY STATISTICS
+![stats](https://github-readme-stats.vercel.app/api?username=KOTA06)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🐳 MY ENVIRONMENT
+## OS
+![](https://img.shields.io/badge/Windows-0078D6?labelColor=black&logo=windows)
+![](https://img.shields.io/badge/MacOS-00000?labelColor=black&logo=apple)
+## Editors
+![](https://img.shields.io/badge/VScode-007ACC?labelColor=black&logo=VisualStudioCode&logoColor=blue)
+![](https://img.shields.io/badge/Xcode-147EFB?labelColor=black&logo=Xcode)
+## Languages
+![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js) 
+![](https://img.shields.io/badge/Python-3776AB?labelColor=black&logo=python)
+![](https://img.shields.io/badge/Swift-F05138?labelColor=black&logo=swift)
+![](https://img.shields.io/badge/HTML-E34F26?labelColor=black&logo=html5)
+![](https://img.shields.io/badge/CSS-1572B6?labelColor=black&logo=css3)
+
+# MY PROJECT
+## Discord
+- Coming soon ...
